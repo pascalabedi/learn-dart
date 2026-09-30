@@ -62,6 +62,16 @@ void main() {
     i++;
   }
 
+
+
+
+  // function
+  void sayHello() {
+    print('Hello everyone !');
+  }
+
+  sayHello();
+
 }
 
 
