@@ -52,7 +52,14 @@ void main() {
 
   // boucle
   for (int i = 0; i < 10; i++) {
-    print('i: $i');
+    print('for : $i');
+  }
+
+
+  int i = 0;
+  while (i < 10) {
+    print('while : $i');
+    i++;
   }
 
 }
